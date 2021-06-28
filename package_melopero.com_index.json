@@ -1,0 +1,64 @@
+{
+    "packages": 
+    [
+      {
+         "name": "Melopero",
+         "maintainer": "Melopero",
+         "help": 
+         {
+           "online": "https://github.com/melopero/ArduinoCore-mbed"
+         },
+         "websiteURL": "https://www.melopero.com/",    
+         "email": "addlater",  
+         "platforms": 
+         [
+            {
+                "name": "Melopero RP2040 Boards",
+                "architecture": "mbed_rp2040",
+                "version": "1.0.0",
+                "category": "Contributed",
+                "url": "http://downloads.arduino.cc/cores/ArduinoCore-mbed-RP2040-2.2.0.tar.bz2",
+                "archiveFileName": "ArduinoCore-mbed-RP2040-2.2.0.tar.bz2",
+                "checksum": "SHA-256:043e2861dfbd8eb69e74d6c84259213a3b49f89ee2f83f268244670b7c37c02e",
+                "size": "3852193",
+                "help": {
+                  "online": "https://github.com/arduino/ArduinoCore-mbed/issues"
+                },
+                "boards": [
+                  {
+                    "name": "Melopero Shake"
+                  }
+                ],
+                "toolsDependencies": [
+                  {
+                    "packager": "arduino",
+                    "name": "openocd",
+                    "version": "0.11.0-arduino2"
+                  },
+                  {
+                    "packager": "arduino",
+                    "name": "arm-none-eabi-gcc",
+                    "version": "7-2017q4"
+                  },
+                  {
+                    "packager": "arduino",
+                    "name": "bossac",
+                    "version": "1.9.1-arduino2"
+                  },
+                  {
+                    "packager": "arduino",
+                    "version": "0.10.0-arduino1",
+                    "name": "dfu-util"
+                  },
+                  {
+                    "packager": "arduino",
+                    "version": "1.0.2",
+                    "name": "rp2040tools"
+                  }
+                ]
+              }
+        ],
+        "tools":[]
+      }
+    ]
+  }
