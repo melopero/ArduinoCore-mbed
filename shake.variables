@@ -1,0 +1,5 @@
+export FLAVOUR="shake"
+export VARIANTS=("MELOPERO_SHAKE")
+export FQBNS=("shake")
+export LIBRARIES=("PDM SPI Wire MRI USBHID USBMSD ThreadDebug Scheduler")
+export BOOTLOADERS=("")
