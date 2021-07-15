@@ -17,10 +17,10 @@
                 "architecture": "mbed_rp2040",
                 "version": "1.0.0",
                 "category": "Contributed",
-                "url": "http://downloads.arduino.cc/cores/ArduinoCore-mbed-RP2040-2.2.0.tar.bz2",
-                "archiveFileName": "ArduinoCore-mbed-RP2040-2.2.0.tar.bz2",
-                "checksum": "SHA-256:043e2861dfbd8eb69e74d6c84259213a3b49f89ee2f83f268244670b7c37c02e",
-                "size": "3852193",
+                "url": "https://github.com/melopero/ArduinoCore-mbed/releases/download/0.1.0/melopero_shake_core.tar.bz2",
+                "archiveFileName": "melopero_shake_core.tar.bz2",
+                "checksum": "SHA-256:fe154b88fcd303948e00d6bf58aeedca32801adcc5741030cfbef3206cfb0324",
+                "size": "13387185",
                 "help": {
                   "online": "https://github.com/arduino/ArduinoCore-mbed/issues"
                 },
