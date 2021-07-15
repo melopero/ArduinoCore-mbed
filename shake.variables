@@ -1,4 +1,4 @@
-export FLAVOUR="shake"
+export FLAVOUR="RP2040"
 export VARIANTS=("MELOPERO_SHAKE")
 export FQBNS=("shake")
 export LIBRARIES=("PDM SPI Wire MRI USBHID USBMSD ThreadDebug Scheduler")
