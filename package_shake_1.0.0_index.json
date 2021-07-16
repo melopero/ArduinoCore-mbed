@@ -19,8 +19,8 @@
                 "category": "Contributed",
                 "url": "https://github.com/melopero/ArduinoCore-mbed/raw/master/core-shake-1.0.0.tar.bz2",
                 "archiveFileName": "core-shake-1.0.0.tar.bz2",
-                "checksum": "SHA-256:1585100d9e97b14ea13eb9508accc8bdede3501c7f6b429f7c563d45bf5d79fc",
-                "size": "15117502",
+                "checksum": "SHA-256:3f6530d21713d3563220949331692dbaf7649fa6c63bdaeba1b2cea310b7aac2",
+                "size": "15118962",
                 "help": {
                   "online": "https://github.com/arduino/ArduinoCore-mbed/issues"
                 },
