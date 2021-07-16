@@ -17,7 +17,7 @@
                 "architecture": "mbed_rp2040",
                 "version": "1.0.0",
                 "category": "Contributed",
-                "url": "https://github.com/melopero/ArduinoCore-mbed/releases/download/0.1.1/core-shake-1.0.0.tar.bz2",
+                "url": "https://github.com/melopero/ArduinoCore-mbed/raw/master/core-shake-1.0.0.tar.bz2",
                 "archiveFileName": "core-shake-1.0.0.tar.bz2",
                 "checksum": "SHA-256:023484a5868734fc9798e29b45039c5aeb2f96f87dadeb5c04da4a53cf553103",
                 "size": "12905470",
